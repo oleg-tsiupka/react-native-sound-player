@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = "https://github.com/johnsonsu/react-native-sound-player"
-  s.source         = { :git => "https://github.com/johnsonsu/react-native-sound-player.git", :branch => "master" }
+  s.source         = { :git => "https://github.com/oleg-tsiupka/react-native-sound-player.git", :branch => "master" }
   s.source_files   = "ios/**/*.{h,m}"
 
   s.ios.deployment_target = "8.0"
